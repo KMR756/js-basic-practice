@@ -31,5 +31,14 @@ console.log(divisionTotal);
 let powerOfTotal = num1 ** num2;
 console.log(powerOfTotal);
 
+// modules
 let modulesTotal = num1 % num2;
 console.log(modulesTotal);
+
+// increment & decrement
+let score = 10;
+score++;
+console.log(score);
+
+score--;
+console.log(score);
